@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change
+=======
+diff change
+>>>>>>> origin/master
